@@ -21,7 +21,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class DetailActivity extends AppCompatActivity {
-    private static final String URL_DATA = "https://api.themoviedb.org/3/movie/now_playing?api_key=2c98286f28f52366551d33ae6d07c979";
+    private static final String URL_DATA = "https://api.themoviedb.org/3/movie/now_playing?api_key=2ca29e7d5ac21a3abe5f7616aff7e5e8";
     public TextView textViewHeadet;
     public TextView textViewDescet;
     public TextView textViewReview;

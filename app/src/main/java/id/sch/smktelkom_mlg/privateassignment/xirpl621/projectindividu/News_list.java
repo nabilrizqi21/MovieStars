@@ -5,26 +5,28 @@ package id.sch.smktelkom_mlg.privateassignment.xirpl621.projectindividu;
  */
 
 public class News_list {
-    private String image;
-    private String judul;
-    private String popular;
+    private String imageUrl;
+    private String head;
+    private String desc;
 
-    public News_list(String image, String judul, String popular) {
-        this.image = image;
-        this.judul = judul;
-        this.popular = popular;
+    public News_list(String imageUrl, String head, String desc) {
+        this.imageUrl = imageUrl;
+        this.head = head;
+        this.desc = desc;
     }
 
-    public String getImage() {
-        return image;
+    public News_list() {
     }
 
-    public String getJudul() {
-        return judul;
+    public String getImageUrl() {
+        return imageUrl;
     }
 
-    public String getPopular() {
-        return popular;
+    public String getHead() {
+        return head;
     }
 
+    public String getDesc() {
+        return desc;
+    }
 }

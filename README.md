@@ -27,6 +27,12 @@ Navigation Drawer
 
 SQLite Dasar
 
+<h1>Deskripsi Aplikasi</h1>
+
+<ol>
+<ul> MovieStars adalah sebuah aplikasi yang menampilkan Film yang tayang sekarang di bioskop belahan bumi. Aplikasi ini memudahkan pengguna untuk mencari referensi film film yang sedang populer saat ini. APlikasi ini menggunakan API sehingga update setiap saat mengikuti update dengan terkoneksi internet.</ul>
+
+</ol>
 
 <h1> Gambar </h1>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png"/>

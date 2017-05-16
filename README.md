@@ -1,6 +1,6 @@
 # MovieStars
 
-<h3> Nama Paket : xirpl621.privateassignment.smktelkom-mlg.sch.id </h3>
+* Nama Paket : xirpl621.privateassignment.smktelkom-mlg.sch.id 
 
 <h1>Link File</h1>
 

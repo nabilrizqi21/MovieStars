@@ -6,6 +6,15 @@
 
 https://drive.google.com/open?id=0B6zIi-3cBsoANU92TXBSa01qaFU
 
+<h1> Identitas </h1>
+<ol>
+<li> nama : Mohammad Nabil Rizqi </li>
+<li> kelas : XIRPL 6 </li>
+<li> absen 21</li>
+<li> nis :4757/1476.070 </li>
+</ol>
+
+
 <h1>Alamat API</h1>
 
 The Movie Database (TMDb) API: https://www.themoviedb.org/documentation/api
@@ -28,10 +37,3 @@ SQLite Dasar
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210922.png"/>
 
 
-<h1> Identitas </h1>
-<ol>
-<li> nama : Mohammad Nabil Rizqi </li>
-<li> kelas : XIRPL 6 </li>
-<li> absen 21</li>
-<li> nis :4757/1476.070 </li>
-</ol>

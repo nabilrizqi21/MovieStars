@@ -13,9 +13,6 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Joice Jessica on 5/14/2017.
- */
 
 public class RecommendAdapter extends RecyclerView.Adapter<RecommendAdapter.ViewHolder> {
 

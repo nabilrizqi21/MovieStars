@@ -1,8 +1,5 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl621.projectindividu;
 
-/**
- * Created by Joice Jessica on 5/14/2017.
- */
 
 public class Table {
     public static String getSQLCreateParam(String name, String[] colName, String[] colType) {

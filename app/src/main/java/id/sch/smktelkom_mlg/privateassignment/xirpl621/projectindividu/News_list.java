@@ -1,8 +1,5 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl621.projectindividu;
 
-/**
- * Created by Mokleters on 13/05/2017.
- */
 
 public class News_list {
     private String imageUrl;

@@ -15,9 +15,6 @@ import com.bumptech.glide.Glide;
 
 import java.util.List;
 
-/**
- * Created by Joice Jessica on 5/14/2017.
- */
 
 public class News_adapter extends RecyclerView.Adapter<News_adapter.ViewHolder> {
 

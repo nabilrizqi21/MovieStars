@@ -9,9 +9,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import java.io.File;
 
-/**
- * Created by Joice Jessica on 5/14/2017.
- */
 
 public abstract class DatabaseHandler extends SQLiteOpenHelper {
 

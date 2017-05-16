@@ -9,51 +9,49 @@
     tools:context="id.sch.smktelkom_mlg.privateassignment.xirpl621.projectindividu.DetailActivity"
     tools:showIn="@layout/activity_detail">
 
-    <android.support.v7.widget.CardView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="16dp"
-        android:layout_marginRight="16dp"
-        android:layout_marginTop="16dp"
-        android:elevation="10dp"
-        app:cardCornerRadius="3dp">
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
 
-        <LinearLayout
+        <TextView
+            android:id="@+id/textViewHeadet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/fab_margin"
+            android:text="@string/hello_blank_fragment" />
+
+        <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:padding="16dp">
-            <!--<ImageView-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:id="@+id/imageViewdetail"-->
-            <!--/>-->
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="Description"
+            android:textColor="?attr/colorAccent" />
 
-            <TextView
-                android:id="@+id/textViewHeadet"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Judul"
-                android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
-                android:textSize="12pt" />
+        <TextView
+            android:id="@+id/textViewReview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/fab_margin"
+            android:text="@string/hello_blank_fragment" />
 
-            <TextView
-                android:id="@+id/textViewDescet"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="16dp"
-                android:text="Author"
-                android:textSize="8pt" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="Vote Count"
+            android:textColor="?attr/colorAccent" />
 
-            <TextView
-                android:id="@+id/textViewReview"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingBottom="7dp"
-                android:text="Description"
-                android:textSize="12sp" />
+        <TextView
+            android:id="@+id/textViewDescet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/fab_margin"
+            android:text="@string/hello_blank_fragment" />
 
-        </LinearLayout>
-    </android.support.v7.widget.CardView>
+    </LinearLayout>
 
 </android.support.v4.widget.NestedScrollView>

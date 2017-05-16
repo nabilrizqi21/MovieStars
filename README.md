@@ -1,7 +1,7 @@
 # MovieStars
 
 <h1> Gambar </h1>
-<img src:https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png/>
+<img src:https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png>
 
 <h1> Identitas </h1>
 <ol>

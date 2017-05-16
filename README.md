@@ -39,10 +39,11 @@ SQLite Dasar
 Dapat menampilkan data tanpa harus terkoneksi dengan internet.
 
 <h1> Gambar </h1>
-<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png"/> <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210856.png"/>
-<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210901.png"/>
-<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210909.png"/>
-<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210915.png"/>
-<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210922.png"/>
+<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png" width="350"/> 
+<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210856.png" width="350"/>
+<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210901.png" width="350"/>
+<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210909.png" width="350"/>
+<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210915.png" width="350"/>
+<img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210922.png" width="350"/>
 
 

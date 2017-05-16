@@ -10,6 +10,15 @@ https://drive.google.com/open?id=0B6zIi-3cBsoANU92TXBSa01qaFU
 
 The Movie Database (TMDb) API: https://www.themoviedb.org/documentation/api
 
+<h1> Jenis Navigation </h1>
+
+Navigation Drawer
+
+<h1> Databases </h1>
+
+SQLite Dasar
+
+
 <h1> Gambar </h1>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png"/>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210856.png"/>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tittle">
+        <item>The Fate of the Furious</item>
+        <item>Alien: Covenant</item>
+        <item>The Boss Baby</item>
+    </string-array>
+
+    <array name="places_picture">
+        <item>@drawable/gb1</item>
+        <item>@drawable/gb2</item>
+        <item>@drawable/gb3</item>
+    </array>
+</resources>

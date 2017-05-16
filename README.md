@@ -4,7 +4,7 @@
 
 <h1>Link File</h1>
 
-https://drive.google.com/file/d/0B6zIi-3cBsoARENsMUZOUGd2aFk/view?usp=sharing
+* https://drive.google.com/file/d/0B6zIi-3cBsoARENsMUZOUGd2aFk/view?usp=sharing
 
 <h1> Identitas </h1>
 <ol>
@@ -17,15 +17,15 @@ https://drive.google.com/file/d/0B6zIi-3cBsoARENsMUZOUGd2aFk/view?usp=sharing
 
 <h1>Alamat API</h1>
 
-The Movie Database (TMDb) API: https://www.themoviedb.org/documentation/api
+* The Movie Database (TMDb) API: https://www.themoviedb.org/documentation/api
 
 <h1> Jenis Navigation </h1>
 
-Navigation Drawer
+* Navigation Drawer
 
 <h1> Databases </h1>
 
-SQLite Dasar
+* SQLite Dasar
 
 <h1>Deskripsi Aplikasi</h1>
 
@@ -36,13 +36,12 @@ SQLite Dasar
 
 <h1> Kelebihan </h1>
 
-Dapat menampilkan data tanpa harus terkoneksi dengan internet.
+* Dapat menampilkan data tanpa harus terkoneksi dengan internet.
 
 <h1> Gambar </h1>
 <p align="center">
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png" width="350"/> 
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210856.png" width="350"/>
-<br>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210901.png" width="350"/>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210909.png" width="350"/>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210915.png" width="350"/>

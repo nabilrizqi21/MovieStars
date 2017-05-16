@@ -34,6 +34,10 @@ SQLite Dasar
 
 </ol>
 
+<h1> Kelebihan </h1>
+
+Dapat menampilkan data tanpa harus terkoneksi dengan internet.
+
 <h1> Gambar </h1>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210852.png"/>
 <img src="https://github.com/nabilrizqi21/MovieStars/blob/master/Screenshot_20170516-210856.png"/>

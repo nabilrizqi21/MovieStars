@@ -4,7 +4,7 @@
 
 <h1>Link File</h1>
 
-https://drive.google.com/open?id=0B6zIi-3cBsoANU92TXBSa01qaFU
+https://drive.google.com/file/d/0B6zIi-3cBsoARENsMUZOUGd2aFk/view?usp=sharing
 
 <h1> Identitas </h1>
 <ol>
